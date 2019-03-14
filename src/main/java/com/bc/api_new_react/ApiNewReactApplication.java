@@ -10,6 +10,6 @@ public class ApiNewReactApplication {
         SpringApplication.run(ApiNewReactApplication.class, args);
     }
 
-    //Test 
+    //Test
 
 }
